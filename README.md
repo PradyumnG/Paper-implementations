@@ -1,1 +1,1 @@
-# NNfrom-scratch
+# NN from-scratch
