@@ -1,1 +1,1 @@
-# NN from-scratch
+# Repository containing implementation of research papers in ML 
